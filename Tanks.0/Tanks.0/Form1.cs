@@ -222,14 +222,6 @@ namespace Tanks._0
                         MessageBox.Show("One or many walls out of border", "Error");
                         this.Close();
                     }
-/*                    foreach (Tanks T in t)
-                    {
-                        if (isEncounterOtherType(T,W))
-                        {
-                            MessageBox.Show("One or many walls on tank", "Error");
-                            this.Close();
-                        }
-                    }*/
                     if (isEncounterSameType(W))
                     {
                         MessageBox.Show("One or many walls on other walls", "Error");
