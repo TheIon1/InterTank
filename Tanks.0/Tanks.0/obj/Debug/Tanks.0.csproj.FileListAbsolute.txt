@@ -7,3 +7,10 @@ D:\Labs\Tests\Job\Tanks.0\Tanks.0\obj\Debug\Tanks.0.csproj.GenerateResource.Cach
 D:\Labs\Tests\Job\Tanks.0\Tanks.0\obj\Debug\Tanks.0.exe
 D:\Labs\Tests\Job\Tanks.0\Tanks.0\obj\Debug\Tanks.0.pdb
 D:\Labs\Tests\Job\Tanks.0\Tanks.0\obj\Debug\Objects._0.Properties.Resources.resources
+D:\Labs\Tests\Job\InterTank\Tanks.0\Tanks.0\bin\Debug\Tanks.0.exe.config
+D:\Labs\Tests\Job\InterTank\Tanks.0\Tanks.0\obj\Debug\Tanks.0.exe
+D:\Labs\Tests\Job\InterTank\Tanks.0\Tanks.0\obj\Debug\Tanks.0.pdb
+D:\Labs\Tests\Job\InterTank\Tanks.0\Tanks.0\obj\Debug\Tanks.0.csprojResolveAssemblyReference.cache
+D:\Labs\Tests\Job\InterTank\Tanks.0\Tanks.0\obj\Debug\Tanks._0.Form1.resources
+D:\Labs\Tests\Job\InterTank\Tanks.0\Tanks.0\obj\Debug\Objects._0.Properties.Resources.resources
+D:\Labs\Tests\Job\InterTank\Tanks.0\Tanks.0\obj\Debug\Tanks.0.csproj.GenerateResource.Cache
