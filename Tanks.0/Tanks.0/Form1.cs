@@ -289,11 +289,6 @@ namespace Tanks._0
             w = new List<Walls>();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         //Изменяя положение трекбара изменяем скорость. Реализовано для удобства пользователя, чтобы двигая скролл вправо он увеличивал скорость.
         //21 отметка слева - 0 пикселов/cек.
         private void trackBar1_Scroll(object sender, EventArgs e)
